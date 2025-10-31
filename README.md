@@ -1,8 +1,13 @@
 # azure-project
 This repo contains my SQL file for my Profitability/ESG project.
 
+# Profitability & ESG Project
 
+**Live Dashboard** → [Google Sheets](https://docs.google.com/spreadsheets/d/1m0Ai4B9m8w63nnKwpx0BvkLZaLE6tTfy896qZpiZzpg/edit?usp=sharing)
 
+> R → Azure SQL → Google Sheets  
+> 36 companies | 2023–2024 | Revenue, ESG, Carbon
+>
 ## Azure Security Setup
 - Enabled **public access via selected networks**
 - Added **client IP** to firewall rules
