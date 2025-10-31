@@ -1,2 +1,2 @@
 # azure-project
-This is the project that which I used Azure. 
+This repo contains my sps file for my Profitability/ESG project.
