@@ -1,5 +1,5 @@
 # azure-project
-This repo contains my sps file for my Profitability/ESG project.
+This repo contains my SQL file for my Profitability/ESG project.
 
 
 
