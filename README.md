@@ -1,8 +1,8 @@
 # azure-project
-This repo contains my SQL file for my Profitability/ESG project.
+This repo contains my R file for my Profitability/ESG project.
 
 # Profitability & ESG Project
-**Key Insight**: In this *random sample* of 36 high-revenue firms, **high ESG ≠ high profitability** — but the full 1,000-row dataset may tell a different story. **Next step: scale the analysis.**
+**Key Insight**: In this *random sample* of 36 high-revenue firms, **high ESG does not equal high profitability** — but the full 1,000-row dataset may tell a different story. **Next step: scale the analysis.**
 
 **Live Dashboard** → [Google Sheets](https://docs.google.com/spreadsheets/d/1m0Ai4B9m8w63nnKwpx0BvkLZaLE6tTfy896qZpiZzpg/edit?usp=sharing)
 
